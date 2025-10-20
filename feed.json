@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Travel Guide",
+    "description": "",
+    "home_page_url": "https:// rebeccabarnar-27.github.io/mywebsite",
+    "feed_url": "https:// rebeccabarnar-27.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rebecca Barnard"
+    },
+    "items": [
+    ]
+}
